@@ -11,7 +11,7 @@ put an end to that. The answer is one-third. This is why:
 ![Probability calculation using Bayes' theorem](https://github.com/readyready15728/you-should-be-able-to-solve-this/blob/master/probability-calculation.png)
 
 If that's not enough, the enclosed simulation will put any further doubt to
-rest. Sample output of 100,000 runs:
+rest (uses Python 3). Sample output of 100,000 runs:
 
 ```
 0.333408280157
